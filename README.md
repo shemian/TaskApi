@@ -19,4 +19,5 @@ This are the requirements for running the Static Site Generator
 
   ## Installation & Usage.
   1. Download or clone the repository to your Machine.
-      ```git clone https://github.com/shemian/static-site-generator.git
+     
+      ``git clone https://github.com/shemian/static-site-generator.git``
