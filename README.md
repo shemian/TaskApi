@@ -10,10 +10,9 @@ The "Laravel RESTful API for Task Management" is a user-friendly API built with 
 * Validation to ensure data integrity.
 
 ## Requirements 
-This are the requirements for running the Static Site Generator 
+This are the requirements for running the project 
 * PHP
 * Laravel 10
-* Xampp
 * Postman - (api testing)
 * Composer
 
