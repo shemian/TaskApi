@@ -17,7 +17,24 @@ This are the requirements for running the Static Site Generator
 * Postman - (api testing)
 * Composer
 
-  ## Installation & Usage.
-  1. Download or clone the repository to your Machine.
-     
-      ``git clone https://github.com/shemian/static-site-generator.git``
+## Installation & Usage.
+1. Download or clone the repository to your Machine:
+
+        git clone  https://github.com/shemian/TaskApi.git
+        
+2. Install dependencies:
+    
+        composer install
+   
+4. Configure your `.env` file with database details and other settings.
+
+5. Run migrations and seed the database:
+    
+        php artisan migrate --seed
+
+6. Start the Laravel development server:
+    
+        php artisan serve
+
+
+
