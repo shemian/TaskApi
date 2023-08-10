@@ -68,3 +68,15 @@ Then go ahead and hit the endpoint for creating the task and and in the body inp
 
 ![api3](https://github.com/shemian/TaskApi/assets/60656556/05cb4cc0-703d-444e-8908-80e0e0df7f26)
 
+That is one of the End Points. For testing the other Endpoints hit this routes 
+
+* Retrieve a specific task: GET http://127.0.0.1:8000/api/tasks/{id}
+* Update an existing task: PUT http://127.0.0.1:8000/api/tasks/{id}/update 
+* Delete a task: DELETE http://127.0.0.1:8000/api/tasks/{id}/delete
+
+## Contributions
+If you find a bug or would like to suggest a feature, please create a new issue or pull request. Your contributions are greatly appreciated!
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
