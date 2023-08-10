@@ -57,3 +57,14 @@ Using ``postman`` you can get the  valid ``Bearer token``
 ![api1](https://github.com/shemian/TaskApi/assets/60656556/f5cbcec5-ef8e-44c7-b3d3-d25a95556a47)
 
 
+We now have a valid  valid ``Bearer token`` now we can perform the CRUd functionalties on the tasks i.e Creating a task 
+
+## Creating a Task. 
+* Navigate to your postman then on the ``Authorization`` select the ``Bearer Token`` as your type then input the token that you got during login. Like this
+  
+![api2](https://github.com/shemian/TaskApi/assets/60656556/b58ab40d-fc55-4808-8e48-babba4eef26b)
+
+Then go ahead and hit the endpoint for creating the task and and in the body input the required values for creating the tasks. For instance 
+
+![api3](https://github.com/shemian/TaskApi/assets/60656556/05cb4cc0-703d-444e-8908-80e0e0df7f26)
+
